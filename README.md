@@ -1,3 +1,9 @@
+# #################################
+# REPO HAS BEEN LOCKED
+# MIGRATED TO GITLAB
+# https://gitlab.com/gateless/semtag/-/tree/master
+# #################################
+
 # Semtag
 Semantic Tagging Script for Git
 
